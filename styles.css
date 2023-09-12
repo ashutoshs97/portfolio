@@ -2472,7 +2472,7 @@ figcaption {
   color: #fff;
   text-align: center;
   background-color: #dfb468;
-  background-image: url("https://uploads-ssl.webflow.com/59c5c3e797139c000117aa12/59ed557d19032000013fe8c4_side-project-opener_flipped.jpg");
+  background-image: url("/Photos/side-project-opener_flipped.jpg");
   background-position: 50% 72%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3283,7 +3283,7 @@ figcaption {
 }
 
 .section.sideprojectfooter {
-  background-image: url("https://uploads-ssl.webflow.com/59c5c3e797139c000117aa12/5a20c121fad0680001db2fe3_side-project-opener_FOOTER.jpg");
+  background-image: url("/Photos/side-project-opener_FOOTER.jpg");
   background-position: 50% 21%;
   background-repeat: no-repeat;
   background-size: cover;
