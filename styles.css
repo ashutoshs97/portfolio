@@ -5517,7 +5517,7 @@ html.w-mod-js [data-ix="opacity-100-on-hover"] {
 
   .hero-section.fixed-image-section.home {
     height: 70vh;
-    background-image: url("https://uploads-ssl.webflow.com/59c5c3e797139c000117aa12/59eceacaf4f8560001ca5755_cover.jpg"),
+    background-image: url("/Photos/Frame 1.png"),
       linear-gradient(#e8cf7d, #e8cf7d);
     background-position: 71%, 0 0;
     background-repeat: no-repeat, repeat;
