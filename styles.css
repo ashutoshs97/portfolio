@@ -3317,28 +3317,9 @@ figcaption {
   padding: 0;
 }
 
-.section.ticketmanager {
-  background-color: #de8579;
-  background-image: url("https://uploads-ssl.webflow.com/59c5c3e797139c000117aa12/59f00fa44a4c2500011f82a0_ticketmanager_cover.jpg");
-  background-position: 50% 48px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-.section.routrfooter {
-  background-color: #89b1cc;
-  background-image: url("https://uploads-ssl.webflow.com/59c5c3e797139c000117aa12/59effc1e68aadb00010f938b_routr_cover.jpg");
-  background-position: 0 100%;
-  background-repeat: no-repeat;
-  background-size: 850px;
-  background-attachment: fixed;
-  padding-top: 0;
-}
-
 .section.universefooter {
   background-color: #6fc7b3;
-  background-image: url("https://uploads-ssl.webflow.com/59c5c3e797139c000117aa12/5a2f7d6b99d04e00015be6a7_dashboard_footer_v2.jpg");
+  background-image: url("https://uploads-ssl.webflow.com/59c5c3e797139c000117aa12/59f00fa44a4c2500011f82a0_ticketmanager_cover.jpg");
   background-position: 50% 82%;
   background-repeat: no-repeat;
   background-size: cover;
