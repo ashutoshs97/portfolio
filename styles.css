@@ -2701,6 +2701,34 @@ figcaption {
   right: 641px;
 }
 
+.container-8 {
+  height: 500px;
+  background-image: url("/Photos/04 Free 14 Iphone Pro Mockup.png"),
+    linear-gradient(#89b1cc, #89b1cc);
+  background-position: 272%, 0 0;
+  background-repeat: no-repeat, repeat;
+  background-size: 90%, auto;
+  background-attachment: scroll, scroll;
+  position: relative;
+  top: 101px;
+  bottom: 30px;
+  right: 641px;
+}
+
+.container-21 {
+  height: 500px;
+  background-image: url("/Photos/calc3.png"),
+    linear-gradient(#89b1cc, #89b1cc);
+  background-position: 272%, 0 0;
+  background-repeat: no-repeat, repeat;
+  background-size: 90%, auto;
+  background-attachment: scroll, scroll;
+  position: relative;
+  top: 101px;
+  bottom: 30px;
+  right: 641px;
+}
+
 .paragraph-subheading {
   float: right;
   color: #fff;
@@ -2890,6 +2918,38 @@ figcaption {
   right: 320px;
 }
 
+.container-19 {
+  height: 600px;
+  background-image: url("/Photos/Cover.png"),
+    linear-gradient(#de8579, #de8579);
+  background-position: 50% 0, 0 0;
+  background-repeat: no-repeat, repeat;
+  background-size: cover, auto;
+  margin-bottom: 0;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  left: 139px;
+  right: 240px;
+  overflow: visible;
+}
+
+.container-20 {
+  height: 600px;
+  background-image: url("/Photos/checkout.png"),
+    linear-gradient(#e8cf7d, #e8cf7d);
+  background-position: 50%, 0 0;
+  background-repeat: no-repeat, repeat;
+  background-size: cover, auto;
+  background-attachment: scroll, scroll;
+  margin-bottom: 0;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  right: 320px;
+}
+
+
 .project-box-4 {
   z-index: 1;
   width: 300px;
@@ -3042,6 +3102,42 @@ figcaption {
   background-image: url("/Photos/Frame 18.png"),
     linear-gradient(#89b1cc, #89b1cc);
   background-position: 50%, 0 0;
+  background-repeat: no-repeat, repeat;
+  background-size: cover, auto;
+  background-attachment: scroll, scroll;
+  position: relative;
+  top: -100px;
+  left: 1241px;
+  right: 0;
+}
+
+.div_project_image5 {
+  z-index: 2;
+  width: 600px;
+  height: 600px;
+  float: right;
+  clear: none;
+  background-image: url("/Photos/Dribbble.png"),
+    linear-gradient(#89b1cc, #89b1cc);
+  background-position: 50%, 0 0;  
+  background-repeat: no-repeat, repeat;
+  background-size: cover, auto;
+  background-attachment: scroll, scroll;
+  position: relative;
+  top: -100px;
+  left: 1241px;
+  right: 0;
+}
+
+.div_project_image6 {
+  z-index: 2;
+  width: 600px;
+  height: 600px;
+  float: right;
+  clear: none;
+  background-image: url("/Photos/calc2.png"),
+    linear-gradient(#89b1cc, #89b1cc);
+  background-position: 50%, 0 0;  
   background-repeat: no-repeat, repeat;
   background-size: cover, auto;
   background-attachment: scroll, scroll;
